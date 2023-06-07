@@ -3,10 +3,6 @@
   height="32"
   style="float:left;margin-right: 10px">
   Real-time Flutter chat application
-  <img src="https://img.icons8.com/?size=512&id=sZS8MRV88u6i&format=png"
-  width="32"
-  height="32"
-  style="float:left;margin-left: 10px">
 </h1>
 
 <div style="display: flex; flex-direction: row; gap: 5px">
