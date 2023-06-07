@@ -3,23 +3,10 @@
   height="32"
   style="float:left;margin-right: 10px">
   Real-time Flutter chat application
-  <img src="https://img.icons8.com/?size=512&id=sZS8MRV88u6i&format=png"
-  width="32"
-  height="32"
-  style="float:left;margin-left: 10px">
 </h1>
 
-<div style="display: flex; flex-direction: row; gap: 5px">
-
-![Windows Supported](https://img.shields.io/badge/-Windows%20supported-blue?logo=windows&style=flat)
-
-![Android Supported](https://img.shields.io/badge/-Android%20supported-green%C3%B9?logo=android&style=flat&logoColor=white)
-
-![Web supported](https://img.shields.io/badge/-Web%20supported-red?logo=google-chrome&style=flat&logoColor=white)
-
-![ChatGPT](https://img.shields.io/badge/chatGPT%20Ready-74aa9c?style=flat&logo=openai&logoColor=white)
-
-</div>
+<table><div style="display: flex; flex-direction: row; gap: 5px"> <img src="https://img.shields.io/badge/-Windows%20supported-blue?logo=windows&style=flat"/> <img src="https://img.shields.io/badge/-Android%20supported-green%C3%B9?logo=android&style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/-Web%20supported-red?logo=google-chrome&style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/chatGPT%20Ready-74aa9c?style=flat&logo=openai&logoColor=white" />
+</div></table>
 
 Ce projet vise a montrer une application développée en Flutter avec un back-end en Node.JS ne se reposant sur aucun service externe (~~Google Auth~~, ~~Firebase~~, ...).
 
